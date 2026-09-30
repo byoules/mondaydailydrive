@@ -1,8 +1,12 @@
 # Daily monday.com Board Export to Google Drive
 
-This Google Apps Script exports a monday.com board to Google Drive once per day.
+**Owner:** Brad Youles  
+**Status:** Active  
+**Last reviewed:** 2026-09-30  
 
-It is designed for situations where you want a daily snapshot of project or task data that can later be reviewed, compared, analyzed, or used by another reporting workflow.
+## Purpose
+
+This Google Apps Script exports a monday.com board to Google Drive once per day. It creates a daily snapshot of project or task data that can later be reviewed, compared, analyzed, or used by another reporting workflow.
 
 The script creates:
 
@@ -340,3 +344,7 @@ Adjust this to your repository's needs.
 ## License
 
 Add the license appropriate for your organization or project.
+
+## Keywords
+
+monday.com, Google Drive, Google Apps Script, board export, daily snapshot, JSON, CSV, project data, task data, API, automation, data export, subitems, pagination, Script Properties, reporting, archival, Brad
